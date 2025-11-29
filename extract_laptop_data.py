@@ -284,21 +284,33 @@ def create_laptop_table(all_extracted_images):
         ) if laptop["Preis_EUR"] and laptop["Neu_Preis_EUR"] else None
 
         # Find actual image for this laptop
-        model_parts = laptop['Modell'].split()
+        model_name = laptop['Modell']
         image_path = None
+        best_match_score = 0
 
         for pdf_name, images in all_extracted_images.items():
             # Skip cover PDFs
             if 'cover' in pdf_name.lower() or 'skin' in pdf_name.lower() or 'etsy' in pdf_name.lower():
                 continue
 
-            # Check if PDF name contains model identifiers
-            matches = sum(1 for part in model_parts if part in pdf_name)
+            # Calculate match score based on how many model parts are in PDF name
+            # and how specific the match is
+            score = 0
 
-            # If we have at least 2 matching parts, use first image
-            if matches >= 2 and images:
+            # Extract model number (e.g., "3550", "5550", "7560")
+            model_parts = model_name.split()
+            for part in model_parts:
+                if part in pdf_name:
+                    # Model numbers get higher weight
+                    if part.isdigit() or (len(part) == 4 and part[:2].isdigit()):
+                        score += 10
+                    else:
+                        score += 1
+
+            # Only use this match if it's better than previous matches
+            if score > best_match_score and images:
+                best_match_score = score
                 image_path = images[0]
-                break
 
         laptop["Bild_Link"] = image_path if image_path else "Kein Bild"
 
@@ -354,16 +366,16 @@ def create_markdown_report(df, all_extracted_images):
 
     with open(md_path, 'w', encoding='utf-8') as f:
         # Header
-        f.write("# Dell Laptop Vergleich\n\n")
-        f.write(f"*Generiert am: {pd.Timestamp.now().strftime('%d.%m.%Y %H:%M:%S')}*\n\n")
+        f.write("# 💻 Dell Laptop Vergleich\n\n")
+        f.write(f"*📅 Generiert am: {pd.Timestamp.now().strftime('%d.%m.%Y %H:%M:%S')}*\n\n")
 
         # Summary Statistics
-        f.write("## Zusammenfassung\n\n")
-        f.write(f"- **Laptops analysiert:** {len(df)}\n")
-        f.write(f"- **Durchschnittspreis:** €{df['Preis_EUR'].mean():.2f}\n")
-        f.write(f"- **Günstigster:** €{df['Preis_EUR'].min():.2f} ({df.loc[df['Preis_EUR'].idxmin(), 'Modell']})\n")
-        f.write(f"- **Teuerster:** €{df['Preis_EUR'].max():.2f} ({df.loc[df['Preis_EUR'].idxmax(), 'Modell']})\n")
-        f.write(f"- **Bilder extrahiert:** {sum(len(imgs) for imgs in all_extracted_images.values())}\n\n")
+        f.write("## 📊 Zusammenfassung\n\n")
+        f.write(f"- 💻 **Laptops analysiert:** {len(df)}\n")
+        f.write(f"- 💰 **Durchschnittspreis:** €{df['Preis_EUR'].mean():.2f}\n")
+        f.write(f"- 🏆 **Günstigster:** €{df['Preis_EUR'].min():.2f} ({df.loc[df['Preis_EUR'].idxmin(), 'Modell']})\n")
+        f.write(f"- 💎 **Teuerster:** €{df['Preis_EUR'].max():.2f} ({df.loc[df['Preis_EUR'].idxmax(), 'Modell']})\n")
+        f.write(f"- 📸 **Bilder extrahiert:** {sum(len(imgs) for imgs in all_extracted_images.values())}\n\n")
 
         # Price Distribution
         f.write("### Preis-Bewertung Verteilung\n\n")
@@ -373,19 +385,24 @@ def create_markdown_report(df, all_extracted_images):
         f.write("\n")
 
         # Detailed Laptop List
-        f.write("## Detaillierte Laptop-Liste\n\n")
+        f.write("## 📋 Detaillierte Laptop-Liste\n\n")
         f.write("---\n\n")
 
         # Sort by price
         df_sorted = df.sort_values('Preis_EUR')
 
         for idx, laptop in df_sorted.iterrows():
-            # Laptop header with model name
-            f.write(f"### {laptop['Modell']}\n\n")
+            # Create anchor ID from model name
+            anchor_id = laptop['Modell'].lower().replace(' ', '-')
+
+            # Laptop header with model name and anchor
+            f.write(f"### <a id=\"{anchor_id}\"></a>{laptop['Modell']}\n\n")
 
             # Find images for this laptop - improved matching
             model_images = []
             model_name = laptop['Modell']
+            best_match_score = 0
+            best_match_images = []
 
             # Extract key identifiers from model name
             model_parts = model_name.split()
@@ -395,24 +412,31 @@ def create_markdown_report(df, all_extracted_images):
                 if 'cover' in pdf_name.lower() or 'skin' in pdf_name.lower() or 'etsy' in pdf_name.lower():
                     continue
 
-                # Check if PDF name contains model identifiers
-                # For example: "Dell Precision 5550" should match "Dell Precision 5550 - i7-10850H..."
-                matches = 0
+                # Calculate match score
+                score = 0
                 for part in model_parts:
                     if part in pdf_name:
-                        matches += 1
+                        # Model numbers get higher weight
+                        if part.isdigit() or (len(part) == 4 and part[:2].isdigit()):
+                            score += 10
+                        else:
+                            score += 1
 
-                # If we have at least 2 matching parts (e.g., "Precision" and "5550"), consider it a match
-                if matches >= 2:
-                    model_images.extend(images[:5])  # Take first 5 images
-                    break
+                # Keep track of best match
+                if score > best_match_score and images:
+                    best_match_score = score
+                    best_match_images = images[:5]  # Take first 5 images
+
+            model_images = best_match_images
 
             # Display first image if available
             if model_images:
-                f.write(f"![{laptop['Modell']}]({model_images[0]})\n\n")
+                # Fix path for markdown file in output/ directory
+                img_path = f"../{model_images[0]}"
+                f.write(f"![{laptop['Modell']}]({img_path})\n\n")
             else:
-                # If no images found, try to find from cover directory
-                f.write(f"*Keine spezifischen Produktbilder verfügbar*\n\n")
+                # If no images found, show placeholder
+                f.write(f"*📷 Keine spezifischen Produktbilder verfügbar*\n\n")
 
             # Price information with badge
             preis_emoji = {
@@ -459,15 +483,16 @@ def create_markdown_report(df, all_extracted_images):
             # Additional images if available
             if len(model_images) > 1:
                 f.write("<details>\n")
-                f.write("<summary>Weitere Bilder</summary>\n\n")
+                f.write("<summary>📸 Weitere Bilder</summary>\n\n")
                 for img in model_images[1:]:
-                    f.write(f"![{laptop['Modell']}]({img})\n\n")
+                    img_path = f"../{img}"
+                    f.write(f"![{laptop['Modell']}]({img_path})\n\n")
                 f.write("</details>\n\n")
 
             f.write("---\n\n")
 
         # Comparison Table
-        f.write("## Schnellvergleich Tabelle\n\n")
+        f.write("## 📊 Schnellvergleich Tabelle\n\n")
         f.write("| Modell | Preis | Rabatt | CPU | RAM | SSD | GPU | Bewertung |\n")
         f.write("|--------|-------|--------|-----|-----|-----|-----|----------|\n")
 
@@ -480,7 +505,11 @@ def create_markdown_report(df, all_extracted_images):
             # Shorten processor name
             cpu_short = laptop['Prozessor'].replace('Intel Core ', '').replace('Intel ', '')
 
-            f.write(f"| {laptop['Modell']} | €{laptop['Preis_EUR']:.2f} {rating_emoji} | {laptop['Rabatt_%']}% | {cpu_short} | {ram} | {ssd} | {gpu} | {laptop['Preis_Bewertung']} |\n")
+            # Create anchor link
+            anchor_id = laptop['Modell'].lower().replace(' ', '-')
+            model_link = f"[{laptop['Modell']}](#{anchor_id})"
+
+            f.write(f"| {model_link} | €{laptop['Preis_EUR']:.2f} {rating_emoji} | {laptop['Rabatt_%']}% | {cpu_short} | {ram} | {ssd} | {gpu} | {laptop['Preis_Bewertung']} |\n")
 
         f.write("\n---\n\n")
         f.write("*Legende: 🟢 = Sehr gut/Gut | 🟡 = Fair/Akzeptabel | 🔴 = Zu teuer*\n")

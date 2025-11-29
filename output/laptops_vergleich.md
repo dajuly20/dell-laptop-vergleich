@@ -1,14 +1,14 @@
-# Dell Laptop Vergleich
+# 💻 Dell Laptop Vergleich
 
-*Generiert am: 29.11.2025 07:17:19*
+*📅 Generiert am: 29.11.2025 07:59:38*
 
-## Zusammenfassung
+## 📊 Zusammenfassung
 
-- **Laptops analysiert:** 11
-- **Durchschnittspreis:** €889.08
-- **Günstigster:** €679.00 (Dell Precision 5550)
-- **Teuerster:** €980.00 (Dell Precision 3561)
-- **Bilder extrahiert:** 896
+- 💻 **Laptops analysiert:** 11
+- 💰 **Durchschnittspreis:** €889.08
+- 🏆 **Günstigster:** €679.00 (Dell Precision 5550)
+- 💎 **Teuerster:** €980.00 (Dell Precision 3561)
+- 📸 **Bilder extrahiert:** 896
 
 ### Preis-Bewertung Verteilung
 
@@ -18,13 +18,13 @@
 - **Fair (40-50% Rabatt):** 1 Laptop(s)
 - **Zu teuer (<30% Rabatt):** 1 Laptop(s)
 
-## Detaillierte Laptop-Liste
+## 📋 Detaillierte Laptop-Liste
 
 ---
 
-### Dell Precision 5550
+### <a id="dell-precision-5550"></a>Dell Precision 5550
 
-![Dell Precision 5550](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img1.png)
+![Dell Precision 5550](../images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img1.png)
 
 **Preis:** €679.00 🔴 *Zu teuer (<30% Rabatt)*
 
@@ -45,23 +45,23 @@
 | **Quelle** | orbit365.de |
 
 <details>
-<summary>Weitere Bilder</summary>
+<summary>📸 Weitere Bilder</summary>
 
-![Dell Precision 5550](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img2.png)
+![Dell Precision 5550](../images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img2.png)
 
-![Dell Precision 5550](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img3.png)
+![Dell Precision 5550](../images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img3.png)
 
-![Dell Precision 5550](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img4.png)
+![Dell Precision 5550](../images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img4.png)
 
-![Dell Precision 5550](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img5.png)
+![Dell Precision 5550](../images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img5.png)
 
 </details>
 
 ---
 
-### Dell Latitude 3550
+### <a id="dell-latitude-3550"></a>Dell Latitude 3550
 
-![Dell Latitude 3550](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img1.png)
+![Dell Latitude 3550](../images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img1.png)
 
 **Preis:** €851.99 🟡 *Akzeptabel (30-40% Rabatt)*
 
@@ -82,23 +82,23 @@
 | **Quelle** | refurbed.de |
 
 <details>
-<summary>Weitere Bilder</summary>
+<summary>📸 Weitere Bilder</summary>
 
-![Dell Latitude 3550](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img2.png)
+![Dell Latitude 3550](../images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img2.png)
 
-![Dell Latitude 3550](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img3.png)
+![Dell Latitude 3550](../images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img3.png)
 
-![Dell Latitude 3550](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img4.png)
+![Dell Latitude 3550](../images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img4.png)
 
-![Dell Latitude 3550](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img5.png)
+![Dell Latitude 3550](../images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img5.png)
 
 </details>
 
 ---
 
-### Dell Precision 5550
+### <a id="dell-precision-5550"></a>Dell Precision 5550
 
-![Dell Precision 5550](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img1.png)
+![Dell Precision 5550](../images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img1.png)
 
 **Preis:** €855.99 🟢 *Gut (50-60% Rabatt)*
 
@@ -120,23 +120,23 @@
 | **Quelle** | refurbed.de |
 
 <details>
-<summary>Weitere Bilder</summary>
+<summary>📸 Weitere Bilder</summary>
 
-![Dell Precision 5550](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img2.png)
+![Dell Precision 5550](../images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img2.png)
 
-![Dell Precision 5550](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img3.png)
+![Dell Precision 5550](../images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img3.png)
 
-![Dell Precision 5550](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img4.png)
+![Dell Precision 5550](../images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img4.png)
 
-![Dell Precision 5550](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img5.png)
+![Dell Precision 5550](../images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img5.png)
 
 </details>
 
 ---
 
-### Dell Precision 7550
+### <a id="dell-precision-7550"></a>Dell Precision 7550
 
-![Dell Precision 7550](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img1.png)
+![Dell Precision 7550](../images/Dell Precision 7550 - i7-10750H - 15.6_ Laptop2/Dell Precision 7550 - i7-10750H - 15.6_ Laptop2_page1_img1.png)
 
 **Preis:** €876.99 🟢 *Sehr gut (>60% Rabatt)*
 
@@ -158,23 +158,23 @@
 | **Quelle** | refurbed.de |
 
 <details>
-<summary>Weitere Bilder</summary>
+<summary>📸 Weitere Bilder</summary>
 
-![Dell Precision 7550](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img2.png)
+![Dell Precision 7550](../images/Dell Precision 7550 - i7-10750H - 15.6_ Laptop2/Dell Precision 7550 - i7-10750H - 15.6_ Laptop2_page1_img2.png)
 
-![Dell Precision 7550](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img3.png)
+![Dell Precision 7550](../images/Dell Precision 7550 - i7-10750H - 15.6_ Laptop2/Dell Precision 7550 - i7-10750H - 15.6_ Laptop2_page1_img3.png)
 
-![Dell Precision 7550](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img4.png)
+![Dell Precision 7550](../images/Dell Precision 7550 - i7-10750H - 15.6_ Laptop2/Dell Precision 7550 - i7-10750H - 15.6_ Laptop2_page1_img4.png)
 
-![Dell Precision 7550](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img5.png)
+![Dell Precision 7550](../images/Dell Precision 7550 - i7-10750H - 15.6_ Laptop2/Dell Precision 7550 - i7-10750H - 15.6_ Laptop2_page1_img5.png)
 
 </details>
 
 ---
 
-### Dell Precision 7560
+### <a id="dell-precision-7560"></a>Dell Precision 7560
 
-![Dell Precision 7560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img1.png)
+![Dell Precision 7560](../images/Dell Precision 7560 _ i7-11850H _ 15.6_ Refurbished/Dell Precision 7560 _ i7-11850H _ 15.6_ Refurbished_page1_img1.png)
 
 **Preis:** €888.99 🟡 *Fair (40-50% Rabatt)*
 
@@ -196,23 +196,23 @@
 | **Quelle** | refurbed.de |
 
 <details>
-<summary>Weitere Bilder</summary>
+<summary>📸 Weitere Bilder</summary>
 
-![Dell Precision 7560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img2.png)
+![Dell Precision 7560](../images/Dell Precision 7560 _ i7-11850H _ 15.6_ Refurbished/Dell Precision 7560 _ i7-11850H _ 15.6_ Refurbished_page1_img2.png)
 
-![Dell Precision 7560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img3.png)
+![Dell Precision 7560](../images/Dell Precision 7560 _ i7-11850H _ 15.6_ Refurbished/Dell Precision 7560 _ i7-11850H _ 15.6_ Refurbished_page1_img3.png)
 
-![Dell Precision 7560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img4.png)
+![Dell Precision 7560](../images/Dell Precision 7560 _ i7-11850H _ 15.6_ Refurbished/Dell Precision 7560 _ i7-11850H _ 15.6_ Refurbished_page1_img4.png)
 
-![Dell Precision 7560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img5.png)
+![Dell Precision 7560](../images/Dell Precision 7560 _ i7-11850H _ 15.6_ Refurbished/Dell Precision 7560 _ i7-11850H _ 15.6_ Refurbished_page1_img5.png)
 
 </details>
 
 ---
 
-### Dell Latitude 5501
+### <a id="dell-latitude-5501"></a>Dell Latitude 5501
 
-![Dell Latitude 5501](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img1.png)
+![Dell Latitude 5501](../images/Dell Latitude 5501 _ i7-9850H _ 15.6_ - Refurbished/Dell Latitude 5501 _ i7-9850H _ 15.6_ - Refurbished_page1_img1.png)
 
 **Preis:** €901.99 🟢 *Gut (50-60% Rabatt)*
 
@@ -234,23 +234,23 @@
 | **Quelle** | refurbed.de |
 
 <details>
-<summary>Weitere Bilder</summary>
+<summary>📸 Weitere Bilder</summary>
 
-![Dell Latitude 5501](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img2.png)
+![Dell Latitude 5501](../images/Dell Latitude 5501 _ i7-9850H _ 15.6_ - Refurbished/Dell Latitude 5501 _ i7-9850H _ 15.6_ - Refurbished_page1_img2.png)
 
-![Dell Latitude 5501](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img3.png)
+![Dell Latitude 5501](../images/Dell Latitude 5501 _ i7-9850H _ 15.6_ - Refurbished/Dell Latitude 5501 _ i7-9850H _ 15.6_ - Refurbished_page1_img3.png)
 
-![Dell Latitude 5501](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img4.png)
+![Dell Latitude 5501](../images/Dell Latitude 5501 _ i7-9850H _ 15.6_ - Refurbished/Dell Latitude 5501 _ i7-9850H _ 15.6_ - Refurbished_page1_img4.png)
 
-![Dell Latitude 5501](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img5.png)
+![Dell Latitude 5501](../images/Dell Latitude 5501 _ i7-9850H _ 15.6_ - Refurbished/Dell Latitude 5501 _ i7-9850H _ 15.6_ - Refurbished_page1_img5.png)
 
 </details>
 
 ---
 
-### Dell Precision 7540
+### <a id="dell-precision-7540"></a>Dell Precision 7540
 
-![Dell Precision 7540](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img1.png)
+![Dell Precision 7540](../images/Dell Precision 7540 _ i9-9880H _ 15.6_ - Refurbished/Dell Precision 7540 _ i9-9880H _ 15.6_ - Refurbished_page1_img1.png)
 
 **Preis:** €923.99 🟢 *Gut (50-60% Rabatt)*
 
@@ -272,23 +272,23 @@
 | **Quelle** | refurbed.de |
 
 <details>
-<summary>Weitere Bilder</summary>
+<summary>📸 Weitere Bilder</summary>
 
-![Dell Precision 7540](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img2.png)
+![Dell Precision 7540](../images/Dell Precision 7540 _ i9-9880H _ 15.6_ - Refurbished/Dell Precision 7540 _ i9-9880H _ 15.6_ - Refurbished_page1_img2.png)
 
-![Dell Precision 7540](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img3.png)
+![Dell Precision 7540](../images/Dell Precision 7540 _ i9-9880H _ 15.6_ - Refurbished/Dell Precision 7540 _ i9-9880H _ 15.6_ - Refurbished_page1_img3.png)
 
-![Dell Precision 7540](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img4.png)
+![Dell Precision 7540](../images/Dell Precision 7540 _ i9-9880H _ 15.6_ - Refurbished/Dell Precision 7540 _ i9-9880H _ 15.6_ - Refurbished_page1_img4.png)
 
-![Dell Precision 7540](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img5.png)
+![Dell Precision 7540](../images/Dell Precision 7540 _ i9-9880H _ 15.6_ - Refurbished/Dell Precision 7540 _ i9-9880H _ 15.6_ - Refurbished_page1_img5.png)
 
 </details>
 
 ---
 
-### Dell Precision 5560
+### <a id="dell-precision-5560"></a>Dell Precision 5560
 
-![Dell Precision 5560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img1.png)
+![Dell Precision 5560](../images/Dell Precision 5560 _ i5-11500H _ 15.6'' - refurbished/Dell Precision 5560 _ i5-11500H _ 15.6'' - refurbished_page1_img1.png)
 
 **Preis:** €925.99 🟢 *Sehr gut (>60% Rabatt)*
 
@@ -310,23 +310,23 @@
 | **Quelle** | refurbed.de |
 
 <details>
-<summary>Weitere Bilder</summary>
+<summary>📸 Weitere Bilder</summary>
 
-![Dell Precision 5560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img2.png)
+![Dell Precision 5560](../images/Dell Precision 5560 _ i5-11500H _ 15.6'' - refurbished/Dell Precision 5560 _ i5-11500H _ 15.6'' - refurbished_page1_img2.png)
 
-![Dell Precision 5560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img3.png)
+![Dell Precision 5560](../images/Dell Precision 5560 _ i5-11500H _ 15.6'' - refurbished/Dell Precision 5560 _ i5-11500H _ 15.6'' - refurbished_page1_img3.png)
 
-![Dell Precision 5560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img4.png)
+![Dell Precision 5560](../images/Dell Precision 5560 _ i5-11500H _ 15.6'' - refurbished/Dell Precision 5560 _ i5-11500H _ 15.6'' - refurbished_page1_img4.png)
 
-![Dell Precision 5560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img5.png)
+![Dell Precision 5560](../images/Dell Precision 5560 _ i5-11500H _ 15.6'' - refurbished/Dell Precision 5560 _ i5-11500H _ 15.6'' - refurbished_page1_img5.png)
 
 </details>
 
 ---
 
-### Dell Precision 5560
+### <a id="dell-precision-5560"></a>Dell Precision 5560
 
-![Dell Precision 5560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img1.png)
+![Dell Precision 5560](../images/Dell Precision 5560 _ i5-11500H _ 15.6'' - refurbished/Dell Precision 5560 _ i5-11500H _ 15.6'' - refurbished_page1_img1.png)
 
 **Preis:** €944.99 🟢 *Sehr gut (>60% Rabatt)*
 
@@ -348,23 +348,23 @@
 | **Quelle** | refurbed.de |
 
 <details>
-<summary>Weitere Bilder</summary>
+<summary>📸 Weitere Bilder</summary>
 
-![Dell Precision 5560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img2.png)
+![Dell Precision 5560](../images/Dell Precision 5560 _ i5-11500H _ 15.6'' - refurbished/Dell Precision 5560 _ i5-11500H _ 15.6'' - refurbished_page1_img2.png)
 
-![Dell Precision 5560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img3.png)
+![Dell Precision 5560](../images/Dell Precision 5560 _ i5-11500H _ 15.6'' - refurbished/Dell Precision 5560 _ i5-11500H _ 15.6'' - refurbished_page1_img3.png)
 
-![Dell Precision 5560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img4.png)
+![Dell Precision 5560](../images/Dell Precision 5560 _ i5-11500H _ 15.6'' - refurbished/Dell Precision 5560 _ i5-11500H _ 15.6'' - refurbished_page1_img4.png)
 
-![Dell Precision 5560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img5.png)
+![Dell Precision 5560](../images/Dell Precision 5560 _ i5-11500H _ 15.6'' - refurbished/Dell Precision 5560 _ i5-11500H _ 15.6'' - refurbished_page1_img5.png)
 
 </details>
 
 ---
 
-### Dell Precision 5560
+### <a id="dell-precision-5560"></a>Dell Precision 5560
 
-![Dell Precision 5560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img1.png)
+![Dell Precision 5560](../images/Dell Precision 5560 _ i5-11500H _ 15.6'' - refurbished/Dell Precision 5560 _ i5-11500H _ 15.6'' - refurbished_page1_img1.png)
 
 **Preis:** €950.00 🟢 *Sehr gut (>60% Rabatt)*
 
@@ -386,23 +386,23 @@
 | **Quelle** | refurbed.de |
 
 <details>
-<summary>Weitere Bilder</summary>
+<summary>📸 Weitere Bilder</summary>
 
-![Dell Precision 5560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img2.png)
+![Dell Precision 5560](../images/Dell Precision 5560 _ i5-11500H _ 15.6'' - refurbished/Dell Precision 5560 _ i5-11500H _ 15.6'' - refurbished_page1_img2.png)
 
-![Dell Precision 5560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img3.png)
+![Dell Precision 5560](../images/Dell Precision 5560 _ i5-11500H _ 15.6'' - refurbished/Dell Precision 5560 _ i5-11500H _ 15.6'' - refurbished_page1_img3.png)
 
-![Dell Precision 5560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img4.png)
+![Dell Precision 5560](../images/Dell Precision 5560 _ i5-11500H _ 15.6'' - refurbished/Dell Precision 5560 _ i5-11500H _ 15.6'' - refurbished_page1_img4.png)
 
-![Dell Precision 5560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img5.png)
+![Dell Precision 5560](../images/Dell Precision 5560 _ i5-11500H _ 15.6'' - refurbished/Dell Precision 5560 _ i5-11500H _ 15.6'' - refurbished_page1_img5.png)
 
 </details>
 
 ---
 
-### Dell Precision 3561
+### <a id="dell-precision-3561"></a>Dell Precision 3561
 
-![Dell Precision 3561](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img1.png)
+![Dell Precision 3561](../images/Dell Precision 3561 i9 11950H 15 Zoll Notebook Workstation in Brandenburg - Frankfurt (Oder) _ kleinanzeigen.de/Dell Precision 3561 i9 11950H 15 Zoll Notebook Workstation in Brandenburg - Frankfurt (Oder) _ kleinanzeigen.de_page2_img1.png)
 
 **Preis:** €980.00 🟢 *Sehr gut (>60% Rabatt)*
 
@@ -420,35 +420,35 @@
 | **Quelle** | kleinanzeigen.de |
 
 <details>
-<summary>Weitere Bilder</summary>
+<summary>📸 Weitere Bilder</summary>
 
-![Dell Precision 3561](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img2.png)
+![Dell Precision 3561](../images/Dell Precision 3561 i9 11950H 15 Zoll Notebook Workstation in Brandenburg - Frankfurt (Oder) _ kleinanzeigen.de/Dell Precision 3561 i9 11950H 15 Zoll Notebook Workstation in Brandenburg - Frankfurt (Oder) _ kleinanzeigen.de_page2_img2.png)
 
-![Dell Precision 3561](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img3.png)
+![Dell Precision 3561](../images/Dell Precision 3561 i9 11950H 15 Zoll Notebook Workstation in Brandenburg - Frankfurt (Oder) _ kleinanzeigen.de/Dell Precision 3561 i9 11950H 15 Zoll Notebook Workstation in Brandenburg - Frankfurt (Oder) _ kleinanzeigen.de_page3_img1.png)
 
-![Dell Precision 3561](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img4.png)
+![Dell Precision 3561](../images/Dell Precision 3561 i9 11950H 15 Zoll Notebook Workstation in Brandenburg - Frankfurt (Oder) _ kleinanzeigen.de/Dell Precision 3561 i9 11950H 15 Zoll Notebook Workstation in Brandenburg - Frankfurt (Oder) _ kleinanzeigen.de_page3_img2.png)
 
-![Dell Precision 3561](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img5.png)
+![Dell Precision 3561](../images/Dell Precision 3561 i9 11950H 15 Zoll Notebook Workstation in Brandenburg - Frankfurt (Oder) _ kleinanzeigen.de/Dell Precision 3561 i9 11950H 15 Zoll Notebook Workstation in Brandenburg - Frankfurt (Oder) _ kleinanzeigen.de_page3_img3.png)
 
 </details>
 
 ---
 
-## Schnellvergleich Tabelle
+## 📊 Schnellvergleich Tabelle
 
 | Modell | Preis | Rabatt | CPU | RAM | SSD | GPU | Bewertung |
 |--------|-------|--------|-----|-----|-----|-----|----------|
-| Dell Precision 5550 | €679.00 🔴 | 2.9% | i9-10885H | 32.0GB | 1000.0GB | NVIDIA Quadro T2000 | Zu teuer (<30% Rabatt) |
-| Dell Latitude 3550 | €851.99 🟡 | 39.1% | i5-1335U | 16.0GB | 512.0GB | N/A | Akzeptabel (30-40% Rabatt) |
-| Dell Precision 5550 | €855.99 🟢 | 57.2% | i7-10850H | 16.0GB | 512.0GB | Nvidia Quadro T1000 | Gut (50-60% Rabatt) |
-| Dell Precision 7550 | €876.99 🟢 | 64.0% | i7-10750H | 32.0GB | 512.0GB | Quadro T1000 | Sehr gut (>60% Rabatt) |
-| Dell Precision 7560 | €888.99 🟡 | 48.3% | i7-11850H | 32.0GB | 1000.0GB | RTX A3000 | Fair (40-50% Rabatt) |
-| Dell Latitude 5501 | €901.99 🟢 | 54.9% | i7-9850H | 32.0GB | 1000.0GB | MX150 | Gut (50-60% Rabatt) |
-| Dell Precision 7540 | €923.99 🟢 | 59.8% | i9-9880H | 32.0GB | 512.0GB | Quadro T2000 Mobile | Gut (50-60% Rabatt) |
-| Dell Precision 5560 | €925.99 🟢 | 69.1% | i7-10850H | 16.0GB | 512.0GB | T1200 Mobile | Sehr gut (>60% Rabatt) |
-| Dell Precision 5560 | €944.99 🟢 | 64.6% | i7-11850H | 16.0GB | 512.0GB | T1200 | Sehr gut (>60% Rabatt) |
-| Dell Precision 5560 | €950.00 🟢 | 66.5% | i5-11500H | 32.0GB | 500.0GB | T1200 | Sehr gut (>60% Rabatt) |
-| Dell Precision 3561 | €980.00 🟢 | 67.3% | i9-11950H | nanGB | nanGB | N/A | Sehr gut (>60% Rabatt) |
+| [Dell Precision 5550](#dell-precision-5550) | €679.00 🔴 | 2.9% | i9-10885H | 32.0GB | 1000.0GB | NVIDIA Quadro T2000 | Zu teuer (<30% Rabatt) |
+| [Dell Latitude 3550](#dell-latitude-3550) | €851.99 🟡 | 39.1% | i5-1335U | 16.0GB | 512.0GB | N/A | Akzeptabel (30-40% Rabatt) |
+| [Dell Precision 5550](#dell-precision-5550) | €855.99 🟢 | 57.2% | i7-10850H | 16.0GB | 512.0GB | Nvidia Quadro T1000 | Gut (50-60% Rabatt) |
+| [Dell Precision 7550](#dell-precision-7550) | €876.99 🟢 | 64.0% | i7-10750H | 32.0GB | 512.0GB | Quadro T1000 | Sehr gut (>60% Rabatt) |
+| [Dell Precision 7560](#dell-precision-7560) | €888.99 🟡 | 48.3% | i7-11850H | 32.0GB | 1000.0GB | RTX A3000 | Fair (40-50% Rabatt) |
+| [Dell Latitude 5501](#dell-latitude-5501) | €901.99 🟢 | 54.9% | i7-9850H | 32.0GB | 1000.0GB | MX150 | Gut (50-60% Rabatt) |
+| [Dell Precision 7540](#dell-precision-7540) | €923.99 🟢 | 59.8% | i9-9880H | 32.0GB | 512.0GB | Quadro T2000 Mobile | Gut (50-60% Rabatt) |
+| [Dell Precision 5560](#dell-precision-5560) | €925.99 🟢 | 69.1% | i7-10850H | 16.0GB | 512.0GB | T1200 Mobile | Sehr gut (>60% Rabatt) |
+| [Dell Precision 5560](#dell-precision-5560) | €944.99 🟢 | 64.6% | i7-11850H | 16.0GB | 512.0GB | T1200 | Sehr gut (>60% Rabatt) |
+| [Dell Precision 5560](#dell-precision-5560) | €950.00 🟢 | 66.5% | i5-11500H | 32.0GB | 500.0GB | T1200 | Sehr gut (>60% Rabatt) |
+| [Dell Precision 3561](#dell-precision-3561) | €980.00 🟢 | 67.3% | i9-11950H | nanGB | nanGB | N/A | Sehr gut (>60% Rabatt) |
 
 ---
 
