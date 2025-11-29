@@ -459,15 +459,20 @@ def main():
     print("DELL LAPTOP DATA EXTRACTOR")
     print("=" * 80)
 
-    # Extract images from all PDFs
+    # Extract images from all PDFs (main directory and cover subdirectory)
     pdf_files = list(BASE_DIR.glob("*.pdf"))
-    print(f"\n{len(pdf_files)} PDF-Dateien gefunden\n")
+    cover_pdf_files = list((BASE_DIR / "cover").glob("*.pdf")) if (BASE_DIR / "cover").exists() else []
+    all_pdf_files = pdf_files + cover_pdf_files
+
+    print(f"\n{len(pdf_files)} PDF-Dateien im Hauptverzeichnis gefunden")
+    print(f"{len(cover_pdf_files)} PDF-Dateien im cover/ Verzeichnis gefunden")
+    print(f"Gesamt: {len(all_pdf_files)} PDF-Dateien\n")
 
     print("Schritt 1: Bilder aus PDFs extrahieren...")
     print("-" * 80)
 
     all_extracted_images = {}
-    for pdf_file in pdf_files:
+    for pdf_file in all_pdf_files:
         print(f"\nVerarbeite: {pdf_file.name}")
         images = extract_images_from_pdf(pdf_file, IMAGES_DIR)
         all_extracted_images[pdf_file.name] = images

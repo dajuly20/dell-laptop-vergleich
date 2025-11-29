@@ -1,6 +1,6 @@
 # Dell Laptop Vergleich
 
-*Generiert am: 29.11.2025 06:46:12*
+*Generiert am: 29.11.2025 07:00:27*
 
 ## Zusammenfassung
 
@@ -8,7 +8,7 @@
 - **Durchschnittspreis:** €889.08
 - **Günstigster:** €679.00 (Dell Precision 5550)
 - **Teuerster:** €980.00 (Dell Precision 3561)
-- **Bilder extrahiert:** 286
+- **Bilder extrahiert:** 896
 
 ### Preis-Bewertung Verteilung
 
