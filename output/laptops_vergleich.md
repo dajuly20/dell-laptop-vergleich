@@ -1,6 +1,6 @@
 # Dell Laptop Vergleich
 
-*Generiert am: 29.11.2025 07:00:27*
+*Generiert am: 29.11.2025 07:17:19*
 
 ## Zusammenfassung
 
@@ -24,7 +24,7 @@
 
 ### Dell Precision 5550
 
-![Dell Precision 5550](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img1.png)
+![Dell Precision 5550](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img1.png)
 
 **Preis:** €679.00 🔴 *Zu teuer (<30% Rabatt)*
 
@@ -47,9 +47,13 @@
 <details>
 <summary>Weitere Bilder</summary>
 
-![Dell Precision 5550](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img2.png)
+![Dell Precision 5550](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img2.png)
 
-![Dell Precision 5550](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img3.png)
+![Dell Precision 5550](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img3.png)
+
+![Dell Precision 5550](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img4.png)
+
+![Dell Precision 5550](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img5.png)
 
 </details>
 
@@ -84,13 +88,17 @@
 
 ![Dell Latitude 3550](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img3.png)
 
+![Dell Latitude 3550](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img4.png)
+
+![Dell Latitude 3550](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img5.png)
+
 </details>
 
 ---
 
 ### Dell Precision 5550
 
-![Dell Precision 5550](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img1.png)
+![Dell Precision 5550](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img1.png)
 
 **Preis:** €855.99 🟢 *Gut (50-60% Rabatt)*
 
@@ -114,9 +122,13 @@
 <details>
 <summary>Weitere Bilder</summary>
 
-![Dell Precision 5550](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img2.png)
+![Dell Precision 5550](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img2.png)
 
-![Dell Precision 5550](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img3.png)
+![Dell Precision 5550](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img3.png)
+
+![Dell Precision 5550](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img4.png)
+
+![Dell Precision 5550](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img5.png)
 
 </details>
 
@@ -124,7 +136,7 @@
 
 ### Dell Precision 7550
 
-![Dell Precision 7550](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img1.png)
+![Dell Precision 7550](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img1.png)
 
 **Preis:** €876.99 🟢 *Sehr gut (>60% Rabatt)*
 
@@ -148,9 +160,13 @@
 <details>
 <summary>Weitere Bilder</summary>
 
-![Dell Precision 7550](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img2.png)
+![Dell Precision 7550](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img2.png)
 
-![Dell Precision 7550](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img3.png)
+![Dell Precision 7550](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img3.png)
+
+![Dell Precision 7550](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img4.png)
+
+![Dell Precision 7550](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img5.png)
 
 </details>
 
@@ -158,7 +174,7 @@
 
 ### Dell Precision 7560
 
-![Dell Precision 7560](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img1.png)
+![Dell Precision 7560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img1.png)
 
 **Preis:** €888.99 🟡 *Fair (40-50% Rabatt)*
 
@@ -182,9 +198,13 @@
 <details>
 <summary>Weitere Bilder</summary>
 
-![Dell Precision 7560](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img2.png)
+![Dell Precision 7560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img2.png)
 
-![Dell Precision 7560](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img3.png)
+![Dell Precision 7560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img3.png)
+
+![Dell Precision 7560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img4.png)
+
+![Dell Precision 7560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img5.png)
 
 </details>
 
@@ -220,13 +240,17 @@
 
 ![Dell Latitude 5501](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img3.png)
 
+![Dell Latitude 5501](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img4.png)
+
+![Dell Latitude 5501](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img5.png)
+
 </details>
 
 ---
 
 ### Dell Precision 7540
 
-![Dell Precision 7540](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img1.png)
+![Dell Precision 7540](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img1.png)
 
 **Preis:** €923.99 🟢 *Gut (50-60% Rabatt)*
 
@@ -250,9 +274,13 @@
 <details>
 <summary>Weitere Bilder</summary>
 
-![Dell Precision 7540](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img2.png)
+![Dell Precision 7540](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img2.png)
 
-![Dell Precision 7540](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img3.png)
+![Dell Precision 7540](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img3.png)
+
+![Dell Precision 7540](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img4.png)
+
+![Dell Precision 7540](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img5.png)
 
 </details>
 
@@ -260,7 +288,7 @@
 
 ### Dell Precision 5560
 
-![Dell Precision 5560](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img1.png)
+![Dell Precision 5560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img1.png)
 
 **Preis:** €925.99 🟢 *Sehr gut (>60% Rabatt)*
 
@@ -284,9 +312,13 @@
 <details>
 <summary>Weitere Bilder</summary>
 
-![Dell Precision 5560](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img2.png)
+![Dell Precision 5560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img2.png)
 
-![Dell Precision 5560](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img3.png)
+![Dell Precision 5560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img3.png)
+
+![Dell Precision 5560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img4.png)
+
+![Dell Precision 5560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img5.png)
 
 </details>
 
@@ -294,7 +326,7 @@
 
 ### Dell Precision 5560
 
-![Dell Precision 5560](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img1.png)
+![Dell Precision 5560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img1.png)
 
 **Preis:** €944.99 🟢 *Sehr gut (>60% Rabatt)*
 
@@ -318,9 +350,13 @@
 <details>
 <summary>Weitere Bilder</summary>
 
-![Dell Precision 5560](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img2.png)
+![Dell Precision 5560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img2.png)
 
-![Dell Precision 5560](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img3.png)
+![Dell Precision 5560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img3.png)
+
+![Dell Precision 5560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img4.png)
+
+![Dell Precision 5560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img5.png)
 
 </details>
 
@@ -328,7 +364,7 @@
 
 ### Dell Precision 5560
 
-![Dell Precision 5560](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img1.png)
+![Dell Precision 5560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img1.png)
 
 **Preis:** €950.00 🟢 *Sehr gut (>60% Rabatt)*
 
@@ -352,9 +388,13 @@
 <details>
 <summary>Weitere Bilder</summary>
 
-![Dell Precision 5560](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img2.png)
+![Dell Precision 5560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img2.png)
 
-![Dell Precision 5560](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img3.png)
+![Dell Precision 5560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img3.png)
+
+![Dell Precision 5560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img4.png)
+
+![Dell Precision 5560](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img5.png)
 
 </details>
 
@@ -362,7 +402,7 @@
 
 ### Dell Precision 3561
 
-![Dell Precision 3561](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img1.png)
+![Dell Precision 3561](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img1.png)
 
 **Preis:** €980.00 🟢 *Sehr gut (>60% Rabatt)*
 
@@ -382,9 +422,13 @@
 <details>
 <summary>Weitere Bilder</summary>
 
-![Dell Precision 3561](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img2.png)
+![Dell Precision 3561](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img2.png)
 
-![Dell Precision 3561](images/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5/Dell Latitude 3550 - Leistungsstarker Laptop mit Intel Core i5_page1_img3.png)
+![Dell Precision 3561](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img3.png)
+
+![Dell Precision 3561](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img4.png)
+
+![Dell Precision 3561](images/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD _/Dell Precision 5550 - i9 10885H 2,4 GHz - grau (32 GB RAM _ 1 TB SSD __page1_img5.png)
 
 </details>
 

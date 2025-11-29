@@ -270,7 +270,7 @@ def evaluate_price(price, new_price):
         return "Zu teuer (<30% Rabatt)"
 
 
-def create_laptop_table():
+def create_laptop_table(all_extracted_images):
     """Create a comprehensive table with all laptop data"""
 
     # Add price evaluation to each laptop
@@ -283,8 +283,24 @@ def create_laptop_table():
             ((laptop["Neu_Preis_EUR"] - laptop["Preis_EUR"]) / laptop["Neu_Preis_EUR"]) * 100, 1
         ) if laptop["Preis_EUR"] and laptop["Neu_Preis_EUR"] else None
 
-        # Add image placeholder
-        laptop["Bild_Link"] = f"images/{laptop['Modell'].replace(' ', '_')}/..."
+        # Find actual image for this laptop
+        model_parts = laptop['Modell'].split()
+        image_path = None
+
+        for pdf_name, images in all_extracted_images.items():
+            # Skip cover PDFs
+            if 'cover' in pdf_name.lower() or 'skin' in pdf_name.lower() or 'etsy' in pdf_name.lower():
+                continue
+
+            # Check if PDF name contains model identifiers
+            matches = sum(1 for part in model_parts if part in pdf_name)
+
+            # If we have at least 2 matching parts, use first image
+            if matches >= 2 and images:
+                image_path = images[0]
+                break
+
+        laptop["Bild_Link"] = image_path if image_path else "Kein Bild"
 
     # Create DataFrame
     df = pd.DataFrame(laptops_data)
@@ -367,16 +383,36 @@ def create_markdown_report(df, all_extracted_images):
             # Laptop header with model name
             f.write(f"### {laptop['Modell']}\n\n")
 
-            # Find images for this laptop
+            # Find images for this laptop - improved matching
             model_images = []
+            model_name = laptop['Modell']
+
+            # Extract key identifiers from model name
+            model_parts = model_name.split()
+
             for pdf_name, images in all_extracted_images.items():
-                if any(word in pdf_name for word in laptop['Modell'].split()):
-                    model_images.extend(images[:3])  # Take first 3 images
+                # Skip cover PDFs
+                if 'cover' in pdf_name.lower() or 'skin' in pdf_name.lower() or 'etsy' in pdf_name.lower():
+                    continue
+
+                # Check if PDF name contains model identifiers
+                # For example: "Dell Precision 5550" should match "Dell Precision 5550 - i7-10850H..."
+                matches = 0
+                for part in model_parts:
+                    if part in pdf_name:
+                        matches += 1
+
+                # If we have at least 2 matching parts (e.g., "Precision" and "5550"), consider it a match
+                if matches >= 2:
+                    model_images.extend(images[:5])  # Take first 5 images
                     break
 
             # Display first image if available
             if model_images:
                 f.write(f"![{laptop['Modell']}]({model_images[0]})\n\n")
+            else:
+                # If no images found, try to find from cover directory
+                f.write(f"*Keine spezifischen Produktbilder verfügbar*\n\n")
 
             # Price information with badge
             preis_emoji = {
@@ -486,7 +522,7 @@ def main():
     print("Schritt 2: Laptop-Vergleichstabelle erstellen...")
     print("-" * 80)
 
-    df = create_laptop_table()
+    df = create_laptop_table(all_extracted_images)
 
     # Create Markdown report
     print("\n" + "=" * 80)
