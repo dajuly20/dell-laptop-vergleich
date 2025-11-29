@@ -1,6 +1,6 @@
 # 💻 Dell Laptop Vergleich
 
-*📅 Generiert am: 29.11.2025 07:59:38*
+*📅 Generiert am: 29.11.2025 08:15:44*
 
 ## 📊 Zusammenfassung
 
@@ -42,7 +42,7 @@
 | **Bildschirm** | 15.6" |
 | **Auflösung** | 3840x2400 (WQUXGA) |
 | **Grafikkarte** | NVIDIA Quadro T2000 |
-| **Quelle** | orbit365.de |
+| **Quelle** | [🔗 orbit365.de](https://www.orbit365.de) |
 
 <details>
 <summary>📸 Weitere Bilder</summary>
@@ -79,7 +79,7 @@
 | **Bildschirm** | 15.6" |
 | **Auflösung** | 1920x1080 (FullHD) |
 | **Bewertung** | ⭐⭐⭐⭐ (4.5/5) |
-| **Quelle** | refurbed.de |
+| **Quelle** | [🔗 refurbed.de](https://www.refurbed.de/dell-latitude-3550) |
 
 <details>
 <summary>📸 Weitere Bilder</summary>
@@ -117,7 +117,7 @@
 | **Auflösung** | 1920x1200 (WUXGA) |
 | **Grafikkarte** | Nvidia Quadro T1000 |
 | **Bewertung** | ⭐⭐⭐⭐ (4.5/5) |
-| **Quelle** | refurbed.de |
+| **Quelle** | [🔗 refurbed.de](https://www.refurbed.de/dell-precision-5550) |
 
 <details>
 <summary>📸 Weitere Bilder</summary>
@@ -155,7 +155,7 @@
 | **Auflösung** | 1920x1080 (FullHD) |
 | **Grafikkarte** | Quadro T1000 |
 | **Bewertung** | ⭐⭐⭐⭐ (4.5/5) |
-| **Quelle** | refurbed.de |
+| **Quelle** | [🔗 refurbed.de](https://www.refurbed.de) |
 
 <details>
 <summary>📸 Weitere Bilder</summary>
@@ -193,7 +193,7 @@
 | **Auflösung** | 1920x1080 (FullHD) |
 | **Grafikkarte** | RTX A3000 |
 | **Bewertung** | ⭐⭐⭐⭐ (4.5/5) |
-| **Quelle** | refurbed.de |
+| **Quelle** | [🔗 refurbed.de](https://www.refurbed.de) |
 
 <details>
 <summary>📸 Weitere Bilder</summary>
@@ -231,7 +231,7 @@
 | **Auflösung** | 1920x1080 (FullHD) |
 | **Grafikkarte** | MX150 |
 | **Bewertung** | ⭐⭐⭐⭐ (4.5/5) |
-| **Quelle** | refurbed.de |
+| **Quelle** | [🔗 refurbed.de](https://www.refurbed.de) |
 
 <details>
 <summary>📸 Weitere Bilder</summary>
@@ -269,7 +269,7 @@
 | **Auflösung** | 1920x1080 (FullHD) |
 | **Grafikkarte** | Quadro T2000 Mobile |
 | **Bewertung** | ⭐⭐⭐⭐ (4.5/5) |
-| **Quelle** | refurbed.de |
+| **Quelle** | [🔗 refurbed.de](https://www.refurbed.de) |
 
 <details>
 <summary>📸 Weitere Bilder</summary>
@@ -307,7 +307,7 @@
 | **Auflösung** | 1920x1200 (WUXGA) |
 | **Grafikkarte** | T1200 Mobile |
 | **Bewertung** | ⭐⭐⭐⭐ (4.5/5) |
-| **Quelle** | refurbed.de |
+| **Quelle** | [🔗 refurbed.de](https://www.refurbed.de) |
 
 <details>
 <summary>📸 Weitere Bilder</summary>
@@ -345,7 +345,7 @@
 | **Auflösung** | 1920x1200 (WUXGA) |
 | **Grafikkarte** | T1200 |
 | **Bewertung** | ⭐⭐⭐⭐ (4.5/5) |
-| **Quelle** | refurbed.de |
+| **Quelle** | [🔗 refurbed.de](https://www.refurbed.de) |
 
 <details>
 <summary>📸 Weitere Bilder</summary>
@@ -383,7 +383,7 @@
 | **Auflösung** | 1920x1080 (FullHD) |
 | **Grafikkarte** | T1200 |
 | **Bewertung** | ⭐⭐⭐⭐ (4.5/5) |
-| **Quelle** | refurbed.de |
+| **Quelle** | [🔗 refurbed.de](https://www.refurbed.de) |
 
 <details>
 <summary>📸 Weitere Bilder</summary>
@@ -417,7 +417,7 @@
 | **RAM** | nan GB |
 | **SSD** | nan GB |
 | **Bildschirm** | 15" |
-| **Quelle** | kleinanzeigen.de |
+| **Quelle** | [🔗 kleinanzeigen.de](https://www.kleinanzeigen.de) |
 
 <details>
 <summary>📸 Weitere Bilder</summary>

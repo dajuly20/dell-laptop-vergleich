@@ -37,7 +37,8 @@ laptops_data = [
         "Gewicht_kg": None,
         "Grafikkarte": None,
         "Bewertung": 4.5,
-        "Quelle": "refurbed.de"
+        "Quelle": "refurbed.de",
+        "Quelle_URL": "https://www.refurbed.de/dell-latitude-3550"
     },
     {
         "Modell": "Dell Precision 5550",
@@ -54,7 +55,8 @@ laptops_data = [
         "Gewicht_kg": None,
         "Grafikkarte": "Nvidia Quadro T1000",
         "Bewertung": 4.5,
-        "Quelle": "refurbed.de"
+        "Quelle": "refurbed.de",
+        "Quelle_URL": "https://www.refurbed.de/dell-precision-5550"
     },
     {
         "Modell": "Dell Precision 3561",
@@ -71,7 +73,8 @@ laptops_data = [
         "Gewicht_kg": None,
         "Grafikkarte": None,
         "Bewertung": None,
-        "Quelle": "kleinanzeigen.de"
+        "Quelle": "kleinanzeigen.de",
+        "Quelle_URL": "https://www.kleinanzeigen.de"
     },
     {
         "Modell": "Dell Precision 7560",
@@ -88,7 +91,8 @@ laptops_data = [
         "Gewicht_kg": None,
         "Grafikkarte": "RTX A3000",
         "Bewertung": 4.5,
-        "Quelle": "refurbed.de"
+        "Quelle": "refurbed.de",
+    "Quelle_URL": "https://www.refurbed.de"
     },
     {
         "Modell": "Dell Precision 7550",
@@ -105,7 +109,8 @@ laptops_data = [
         "Gewicht_kg": None,
         "Grafikkarte": "Quadro T1000",
         "Bewertung": 4.5,
-        "Quelle": "refurbed.de"
+        "Quelle": "refurbed.de",
+    "Quelle_URL": "https://www.refurbed.de"
     },
     {
         "Modell": "Dell Latitude 5501",
@@ -122,7 +127,8 @@ laptops_data = [
         "Gewicht_kg": None,
         "Grafikkarte": "MX150",
         "Bewertung": 4.5,
-        "Quelle": "refurbed.de"
+        "Quelle": "refurbed.de",
+    "Quelle_URL": "https://www.refurbed.de"
     },
     {
         "Modell": "Dell Precision 7540",
@@ -139,7 +145,8 @@ laptops_data = [
         "Gewicht_kg": None,
         "Grafikkarte": "Quadro T2000 Mobile",
         "Bewertung": 4.5,
-        "Quelle": "refurbed.de"
+        "Quelle": "refurbed.de",
+    "Quelle_URL": "https://www.refurbed.de"
     },
     {
         "Modell": "Dell Precision 5560",
@@ -156,7 +163,8 @@ laptops_data = [
         "Gewicht_kg": None,
         "Grafikkarte": "T1200 Mobile",
         "Bewertung": 4.5,
-        "Quelle": "refurbed.de"
+        "Quelle": "refurbed.de",
+    "Quelle_URL": "https://www.refurbed.de"
     },
     {
         "Modell": "Dell Precision 5560",
@@ -173,7 +181,8 @@ laptops_data = [
         "Gewicht_kg": None,
         "Grafikkarte": "T1200",
         "Bewertung": 4.5,
-        "Quelle": "refurbed.de"
+        "Quelle": "refurbed.de",
+    "Quelle_URL": "https://www.refurbed.de"
     },
     {
         "Modell": "Dell Precision 5560",
@@ -190,7 +199,8 @@ laptops_data = [
         "Gewicht_kg": None,
         "Grafikkarte": "T1200",
         "Bewertung": 4.5,
-        "Quelle": "refurbed.de"
+        "Quelle": "refurbed.de",
+    "Quelle_URL": "https://www.refurbed.de"
     },
     {
         "Modell": "Dell Precision 5550",
@@ -207,7 +217,8 @@ laptops_data = [
         "Gewicht_kg": None,
         "Grafikkarte": "NVIDIA Quadro T2000",
         "Bewertung": None,
-        "Quelle": "orbit365.de"
+        "Quelle": "orbit365.de",
+    "Quelle_URL": "https://www.orbit365.de"
     }
 ]
 
@@ -323,7 +334,7 @@ def create_laptop_table(all_extracted_images):
         "Prozessor", "Prozessor_Kerne", "Prozessor_GHz",
         "RAM_GB", "RAM_Technologie", "SSD_GB",
         "Bildschirmgröße", "Auflösung", "Grafikkarte",
-        "Gewicht_kg", "Bewertung", "Quelle"
+        "Gewicht_kg", "Bewertung", "Quelle", "Quelle_URL"
     ]
 
     df = df[columns_order]
@@ -477,7 +488,11 @@ def create_markdown_report(df, all_extracted_images):
                 f.write(f"| **Gewicht** | {laptop['Gewicht_kg']} kg |\n")
             if pd.notna(laptop['Bewertung']):
                 f.write(f"| **Bewertung** | {'⭐' * int(laptop['Bewertung'])} ({laptop['Bewertung']}/5) |\n")
-            f.write(f"| **Quelle** | {laptop['Quelle']} |\n")
+            # Make source clickable
+            if laptop.get('Quelle_URL'):
+                f.write(f"| **Quelle** | [🔗 {laptop['Quelle']}]({laptop['Quelle_URL']}) |\n")
+            else:
+                f.write(f"| **Quelle** | {laptop['Quelle']} |\n")
             f.write("\n")
 
             # Additional images if available
